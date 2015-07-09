@@ -1,0 +1,1 @@
+$wnd.com_realdolmen_contacts_MyAppWidgetset.runAsyncCallback2('Fbb(1539,1,WSd);_.tc=function abc(){jZb((!cZb&&(cZb=new oZb),cZb),this.a.d)};yMd(Th)(2);\n//# sourceURL=com.realdolmen.contacts.MyAppWidgetset-2.js\n')
